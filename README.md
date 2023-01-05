@@ -1,3 +1,5 @@
+# skvis is not yet operable code, please wait for the initial release.  The following is copied from msno but will be updated.
+
 # missingno [![PyPi version](https://img.shields.io/pypi/v/missingno.svg)](https://pypi.python.org/pypi/missingno/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/) ![t](https://img.shields.io/badge/status-maintained-yellow.svg) [![](https://img.shields.io/github/license/ResidentMario/missingno.svg)](https://github.com/ResidentMario/missingno/blob/master/LICENSE.md) [![](https://img.shields.io/badge/doi-10.21105/joss.00547+-blue.svg)](https://joss.theoj.org/papers/10.21105/joss.00547)
 
 Messy datasets? Missing values? `missingno` provides a small toolset of flexible and easy-to-use missing data
